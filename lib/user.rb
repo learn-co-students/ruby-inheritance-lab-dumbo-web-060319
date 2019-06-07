@@ -5,4 +5,5 @@ class User
         @first_name = "Tracy"
         @last_name = "Morgan"
     end
+    
 end
